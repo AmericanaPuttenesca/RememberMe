@@ -1,0 +1,14 @@
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3
+sudo cryptsetup open /dev/sda3 <Brain>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2c
+sudo cryptsetup open /dev/sda3. 2c <Spleen>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2a
+sudo cryptsetup open /dev/sda3. 2a <LeftPsyche>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2b
+sudo cryptsetup open /dev/sda3. 2b <RightPsyche>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda3. 2b
+sudo cryptsetup open /dev/sda3. 2d <Skull>
+>file 
+
+●○•You have been Hypno Amnesia Proofed by Brenton Hopkins and exploding octopus We love you heaps  •○●
